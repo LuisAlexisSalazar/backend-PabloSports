@@ -3,7 +3,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+#git push --set-upstream https://github.com/LuisAlexisSalazar/backend_PabloSports.git master
 # C extensions
 *.so
 
